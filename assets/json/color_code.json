@@ -1,0 +1,402 @@
+[
+    {
+        "title": "MARS",
+        "first": "#777A8C",
+        "second": "#3F4659",
+        "third": "#D9A273",
+        "fourth": "#A66953",
+        "fifth": "#F2F2F2"
+    },
+    {
+        "title": "TOWER",
+        "first": "#DE4961",
+        "second": "#F0F3EC",
+        "third": "#0093E0",
+        "fourth": "#F2D4AE",
+        "fifth": "#E6380B"
+    },
+    {
+        "title": "GHOST",
+        "first": "#F8FEFE",
+        "second": "#011126",
+        "third": "#16778C",
+        "fourth": "#F2E750",
+        "fifth": "#BF2604"
+    },
+    {
+        "title": "TRIP",
+        "first": "#362D42",
+        "second": "#F6EFDF",
+        "third": "#7EBFAD",
+        "fourth": "#D9C2A7",
+        "fifth": "#BF2E21"
+    },
+    {
+        "title": "VACATION",
+        "first": "#69A7BF",
+        "second": "#F2D129",
+        "third": "#D9863D",
+        "fourth": "#D92E1E",
+        "fifth": "#F2F2F2"
+    },
+    {
+        "title": "BUDDY",
+        "first": "#BF2C38",
+        "second": "#8C232C",
+        "third": "#283D59",
+        "fourth": "#F2CF66",
+        "fifth": "#D9A441"
+    },
+    {
+        "title": "WIND",
+        "first": "#2A95BF",
+        "second": "#2D5959",
+        "third": "#F2913D",
+        "fourth": "#F27F3D",
+        "fifth": "#F2BBA7"
+    },
+    {
+        "title": "GIRL",
+        "first": "#8538A6",
+        "second": "#F2F2F2",
+        "third": "#335922",
+        "fourth": "#D91C0B",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "TOXIN",
+        "first": "#400207",
+        "second": "#731921",
+        "third": "#48594D",
+        "fourth": "#D9B596",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "MAGAZINE",
+        "first": "#D9D9D9",
+        "second": "#BCBF63",
+        "third": "#BF7D2C",
+        "fourth": "#A63429",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "SPACE",
+        "first": "#BF307F",
+        "second": "#2128BF",
+        "third": "#223059",
+        "fourth": "#30838C",
+        "fifth": "#F2D57E"
+    },
+    {
+        "title": "DADDY",
+        "first": "#122A59",
+        "second": "#3462BF",
+        "third": "#D9CF43",
+        "fourth": "#8C6A56",
+        "fifth": "#F2CFBB"
+    },
+    {
+        "title": "DREAM",
+        "first": "#049DD9",
+        "second": "#04BF7B",
+        "third": "#D8F2E3",
+        "fourth": "#F28705",
+        "fifth": "#D92B04"
+    },
+    {
+        "title": "ROBOT",
+        "first": "#F2295F",
+        "second": "#034AA6",
+        "third": "#05AFF2",
+        "fourth": "#03A678",
+        "fifth": "#F2AE30"
+    },
+    {
+        "title": "TROUBLE",
+        "first": "#D9CE32",
+        "second": "#D9BE3B",
+        "third": "#BFB6AE",
+        "fourth": "#403633",
+        "fifth": "#D96B62"
+    },
+    {
+        "title": "FAMILY",
+        "first": "#6765A6",
+        "second": "#414059",
+        "third": "#9DBF7A",
+        "fourth": "#F2C36B",
+        "fifth": "#D9A679"
+    },
+    {
+        "title": "CRIME",
+        "first": "#222626",
+        "second": "#025951",
+        "third": "#12A697",
+        "fourth": "#F2E0D0",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "LEADER",
+        "first": "#7EBF9A",
+        "second": "#A67223",
+        "third": "#D93D3D",
+        "fourth": "#732A24",
+        "fifth": "#262112"
+    },
+    {
+        "title": "GENTLEMAN",
+        "first": "#2F6073",
+        "second": "#D9B752",
+        "third": "#F2E4BB",
+        "fourth": "#D9A08B",
+        "fifth": "#8C0303"
+    },
+    {
+        "title": "CLOUDY",
+        "first": "#733C46",
+        "second": "#3F403C",
+        "third": "#0D0D0C",
+        "fourth": "#A69F92",
+        "fifth": "#736E6A"
+    },
+    {
+        "title": "HERO",
+        "first": "#D90B1C",
+        "second": "#73060F",
+        "third": "#739FD9",
+        "fourth": "#8FB6D9",
+        "fifth": "#F2CB05"
+    },
+    {
+        "title": "LIFE",
+        "first": "#F28891",
+        "second": "#7E94D9",
+        "third": "#5888A6",
+        "fourth": "#F2EC9B",
+        "fifth": "#F2F2F2"
+    },
+    {
+        "title": "SIDEKICK",
+        "first": "#73A9D9",
+        "second": "#4480A6",
+        "third": "#EFF2D8",
+        "fourth": "#F2C894",
+        "fifth": "#F26241"
+    },
+    {
+        "title": "TROPICAL",
+        "first": "#A0D3F2",
+        "second": "#1ED9D9",
+        "third": "#148C76",
+        "fourth": "#F2B591",
+        "fifth": "#BF1B1B"
+    },
+    {
+        "title": "TIES",
+        "first": "#D90416",
+        "second": "#F25EA3",
+        "third": "#5956A6",
+        "fourth": "#7ABFB8",
+        "fifth": "#F2E0D5"
+    },
+    {
+        "title": "YOUTH",
+        "first": "#F0F0F2",
+        "second": "#07668C",
+        "third": "#04B2D9",
+        "fourth": "#F2C894",
+        "fifth": "#D90404"
+    },
+    {
+        "title": "KID",
+        "first": "#D9042B",
+        "second": "#F2D888",
+        "third": "#D99A25",
+        "fourth": "#F2E8DC",
+        "fifth": "#8C837B"
+    },
+    {
+        "title": "FROG",
+        "first": "#BF0413",
+        "second": "#97BF5A",
+        "third": "#EFF288",
+        "fourth": "#F2B05E",
+        "fifth": "#F2D7B6"
+    },
+    {
+        "title": "JEWELRY",
+        "first": "#F27E93",
+        "second": "#F2A0D5",
+        "third": "#30D98A",
+        "fourth": "#F2EA77",
+        "fifth": "#F2C1B6"
+    },
+    {
+        "title": "BOY",
+        "first": "#F294A5",
+        "second": "#310ABF",
+        "third": "#070C73",
+        "fourth": "#5F88D9",
+        "fifth": "#F28D52"
+    },
+    {
+        "title": "GOTH",
+        "first": "#59151A",
+        "second": "#260126",
+        "third": "#0C0B0D",
+        "fourth": "#2C403C",
+        "fifth": "#437365"
+    },
+    {
+        "title": "CATALYST",
+        "first": "#131E40",
+        "second": "#5E9ABF",
+        "third": "#F2EFBD",
+        "fourth": "#F2C879",
+        "fifth": "#F25C05"
+    },
+    {
+        "title": "ROCKET",
+        "first": "#F24472",
+        "second": "#471A73",
+        "third": "#F2C36B",
+        "fourth": "#F25C05",
+        "fifth": "#F22D1B"
+    },
+    {
+        "title": "SOLO",
+        "first": "#BF3983",
+        "second": "#401A33",
+        "third": "#358C84",
+        "fourth": "#F25C05",
+        "fifth": "#F27C38"
+    },
+    {
+        "title": "DOCTOR",
+        "first": "#D90769",
+        "second": "#BFBFBF",
+        "third": "#BF281B",
+        "fourth": "#1D736E",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "ROMCOM",
+        "first": "#0378A6",
+        "second": "#D9B504",
+        "third": "#F2A413",
+        "fourth": "#D92818",
+        "fifth": "#F28E85"
+    },
+    {
+        "title": "LADY",
+        "first": "#F2294E",
+        "second": "#F2295F",
+        "third": "#A6949A",
+        "fourth": "#D9D0D3",
+        "fifth": "#2C2F40"
+    },
+    {
+        "title": "ROOKIE",
+        "first": "#0597F2",
+        "second": "#61808C",
+        "third": "#D90404",
+        "fourth": "#F2F2F2",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "VETERAN",
+        "first": "#D9898F",
+        "second": "#A6033F",
+        "third": "#68736F",
+        "fourth": "#D97941",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "SMOKER",
+        "first": "#7C8C7B",
+        "second": "#D9C8B4",
+        "third": "#D9A87E",
+        "fourth": "#8C1818",
+        "fifth": "#0D0D0D"
+    },
+    {
+        "title": "NIGHT",
+        "first": "#D9A7B0",
+        "second": "#4F3659",
+        "third": "#2D3040",
+        "fourth": "#60A692",
+        "fifth": "#A64037"
+    },
+    {
+        "title": "CIRCLE",
+        "first": "#F2CA7E",
+        "second": "#F29E6D",
+        "third": "#F24C3D",
+        "fourth": "#732922",
+        "fifth": "#261A18"
+    },
+    {
+        "title": "CITY",
+        "first": "#D92525",
+        "second": "#03A6A6",
+        "third": "#B6D936",
+        "fourth": "#F2E205",
+        "fifth": "#F2A9A2"
+    },
+    {
+        "title": "SPORTS",
+        "first": "#DEE1EF",
+        "second": "#F20746",
+        "third": "#0487D9",
+        "fourth": "#05C7F2",
+        "fifth": "#1B1E26"
+    },
+    {
+        "title": "CREAM SODA",
+        "first": "#F2E4C9",
+        "second": "#D9BA82",
+        "third": "#B0BF99",
+        "fourth": "#03A64A",
+        "fifth": "#04D960"
+    },
+    {
+        "title": "DANCE",
+        "first": "#BF0413",
+        "second": "#D9042B",
+        "third": "#310273",
+        "fourth": "#4E6BA6",
+        "fifth": "#F2E205"
+    },
+    {
+        "title": "HISTORY",
+        "first": "#2C3540",
+        "second": "#72808C",
+        "third": "#92A668",
+        "fourth": "#99A67C",
+        "fifth": "#F2E6CE"
+    },
+    {
+        "title": "ADVENTURE",
+        "first": "#183F8C",
+        "second": "#6AA5D9",
+        "third": "#80D2F2",
+        "fourth": "#8CA685",
+        "fifth": "#447316"
+    },
+    {
+        "title": "FANTASY",
+        "first": "#536FA6",
+        "second": "#8DCBF2",
+        "third": "#F2B33D",
+        "fourth": "#F27329",
+        "fifth": "#F25F29"
+    },
+    {
+        "title": "PRAISE",
+        "first": "#D94E5A",
+        "second": "#D9BD9C",
+        "third": "#F2E2DC",
+        "fourth": "#736868",
+        "fifth": "#0D0D0D"
+    }
+]
